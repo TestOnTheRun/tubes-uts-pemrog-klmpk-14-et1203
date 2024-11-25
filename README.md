@@ -4,11 +4,11 @@
 ### WARNING: Perlu python-vlc dan aplikasi vlc sendiri untuk menjalankan kode ini!
 ```
 Target utama:
-Sistem login            [X] 00%
+Sistem login            [X] 100%
 Sistem Video Player     [V] 90%
-Sistem Upload Video     [X] 00%
+Sistem Upload Video     [X] 90%
 Sistem Delete Video     [X] 00%
-Sistem Browse Video UI  [X] 00%
+Sistem Browse Video UI  [X] 90%
 
 Target Sekunder:
 Sistem Deskripsi Video  [X] 00%
